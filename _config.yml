@@ -3,9 +3,9 @@ title: From Computer To Human Being
 tagline: 由電腦寫到人，再寫回電腦
 author: Aloma Huang
 email: hsucheng.huang@gmail.com
-description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "這裡存放一些我分享的玩意兒，有的是關於程式，有的是關於人生" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "coding, computer, blog, javascript"
-baseurl: "/BlogSite" # the subpath of your site, e.g. /blog/
+baseurl: "/Blog" # the subpath of your site, e.g. /blog/
 url: "https://alomahuang.github.io" # the base hostname & protocol for your site
 locale: en_US
 
@@ -22,7 +22,7 @@ google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
 default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
-default_locale: "en" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
+default_locale: "cn" # blog sidebar language set, only include: English (en), Chinese (cn), Japanese (jp), Polish (pl), Korean (kr),  Russian (ru), Turkish (tr), and Indonesian (id).
 
 locales:
     en:
@@ -44,23 +44,23 @@ locales:
       Guestbook: "Guestbook"
       Subscribe: "Subscribe"
     cn:
-      Aboutme: "关于我"
-      Archives: "存档"
-      Blogroll: "良师益友"        
-      Categories: "分类目录"    
-      Copyright_Notice: "版权声明"
+      Aboutme: "關於我"
+      Archives: "庫存文章"
+      Blogroll: "推薦"        
+      Categories: "分類"    
+      Copyright_Notice: "版權聲明"
       Recent_Posts: "近期文章"
-      Tags: "标签" 
-      Previous: "前一页"
-      Next: "后一页"
-      PostedInCategories: "目录:"   
-      Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
-      Google_search: "站内搜索"
-      Home: "首页"
-      About: "关于"
+      Tags: "Tags" 
+      Previous: "前一頁"
+      Next: "下一頁"
+      PostedInCategories: "目錄:"   
+      Taggedwith: "| 標籤:"
+      PostDate: "| 發表時間: "
+      Google_search: "站内搜尋"
+      Home: "首頁"
+      About: "關於"
       Guestbook: "留言"
-      Subscribe: "订阅"
+      Subscribe: "訂閱"
     jp:
       Aboutme: "著者"
       Archives: "アーカイブ"
