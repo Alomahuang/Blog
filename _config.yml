@@ -14,8 +14,8 @@ twitter_username:
 github_username:  Alomahuang
 disqus_shortname: alomahuang
 favicon:     "/images/favicon.ico"
-aboutme: I am Aloma. I code and I write, but mostly I idle. # these are shown on aboutme-sidebar.
-aboutme_photo: https://i.imgur.com/Mdc4szJl.jpg# your photo.
+aboutme: Bad programmer. Bad yogi. # these are shown on aboutme-sidebar.
+aboutme_photo: https://alomahuang.github.io/Blog/images/me.jpg
 google_analytics_key: # put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -176,9 +176,9 @@ Blogroll:
       - name: From Computer To Human Being
         href: https://alomahuang.github.io/BlogSite
         title: From Computer To Human Being
-      - name: author's website
-        href: 
-        title: 
+      - name: Coding Horror
+        href: https://blog.codinghorror.com/
+        title: programming and human factor
 
 
 ### Build settings
