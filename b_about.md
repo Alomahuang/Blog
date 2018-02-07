@@ -6,23 +6,16 @@ permalink: /about/
 ---
 
 
-### Freshman21 is a Jekyll theme.
+除此，我也會在這裡分享一些關於軟體或工作的心得，甚至一些文字創作。
 
-A tribute to Twenty Twelve and Twenty eleven.
+總之，幾乎是無所不寫，這也是**From Computer To Human Being**名字的由來。
 
-I like wordpress's theme Twenty Twelve and Twenty eleven very much. 
-So I called my Jekyll theme Freshman21 (Freshman <q>twenty-first</q> , it means twenty-first century, not twenty-one), this theme is based on my former theme [Freshman](https://github.com/yulijia/freshman/).
+##關於我##
 
-Freshman21 have two main page format, one is [single column](http://yulijia.net/en/  "see demo"), the other is two columns. For more details, please see the articles on the site.
+在快30歲前，我終於進入了web相關產業，工作了一年後，確定這是我的興趣。
 
-<cite>Proudly enjoy using Freshman21 theme.</cite> <code>;)</code>
+在此之前，我從事過硬體工程師（Power design for server）、國外業務（for packaging machines)以及教科書企劃人員（高職工科專業科目）。
 
-![麋鹿](https://i.imgur.com/Mdc4szJl.jpg){: .img-about}
+在我畢業的第一年，其實就有考慮過當軟體工程師，但是基於在電機系的投資以及毫無所長，還是從事相關產業，不過始終心裡有個呼聲：It's never too late to dive into programming!
 
-#### Hi, the picture you have seen in the sample-page is a Père David's deer photoed by my friend at Beijing Milu Park, China.
-
-
-Milu(麋鹿) is the chinese name of Père David's deer.
-
-All photos on this website are copyrighted material and all rights are reserved.
-
+```於是，我辭職了。```
