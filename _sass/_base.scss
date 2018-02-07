@@ -148,6 +148,7 @@ a {
   color: $brand-color;    
   text-decoration: none;  
   border-bottom: 1px dotted;
+  margin: 3px;
   &:visited {             
     color: darken($brand-color, 25%);
   }                       
