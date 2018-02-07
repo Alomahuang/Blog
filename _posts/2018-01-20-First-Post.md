@@ -5,7 +5,7 @@ categories: [Web]
 tags: 
   - Markdown
 comments: true
-summary:##### 開臺聖祖的第一Po
+summary:開臺聖祖的第一Po
 ---
 
 ##### 開臺聖祖的第一Po
