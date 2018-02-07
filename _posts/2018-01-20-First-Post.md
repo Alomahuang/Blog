@@ -5,6 +5,7 @@ categories: [Web]
 tags: 
   - Markdown
 comments: true
+excerpt_separator: <!--more-->
 ---
 
 ##### 開臺聖祖的第一Po
