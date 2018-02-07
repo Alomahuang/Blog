@@ -5,7 +5,6 @@ categories: [Web]
 tags: 
   - Markdown
 comments: true
-excerpt_separator: <!--more-->
 ---
 
 ##### 開臺聖祖的第一Po
@@ -35,7 +34,7 @@ excerpt_separator: <!--more-->
 ##### H5
 ###### H6
 ```
-<!--more-->
+<!-- more -->
 ---
 ### 項目清單
 清單項目直接加米字號
