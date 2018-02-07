@@ -34,7 +34,7 @@ layout: default
       {{ post.excerpt }}
       <p style="text-align: right"><a href="{{ post.url | prepend: site.baseurl }}">Read more</a></p>
       {% else %}
-      {{ post.content }}
+	  {% set somehtml = page.content %} {{ somehtml[:200]|striptags ~ ' ...' }}
 	  <p><a href="{{ post.url | prepend: site.baseurl }}">閱讀全文</a></p> 
       {% endif %}
     </article>
