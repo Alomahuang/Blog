@@ -8,13 +8,13 @@ tags:
 comments: true
 ---
 
-#### 本篇文章適用的人
+### 本篇文章適用的人
 * 想在Github Pages建立部落格的人
 * 不熟悉也不想使用指令輸入器的人
 * Windows使用者
 * 從來沒聽過Jekyll、Bash、gem等的人
 
-#### 我發生了什麼事
+### 我發生了什麼事
 我手上的兩台電腦，一台桌上型電腦，一台筆記型電腦，都是Windows系統。在我看過Github Pages所建立的網站後，十分興奮地著手建立我自己的部落格。  
 
 首先在Github Pages的解說中，也建議使用[Jekyll](http://jekyllcn.com/)，接著進入Jekyll網站後，隨著它的教學我越陷越深，越來越多我不了解的東西，灌了越來越多的工具包含Ruby、ubuntu等，並且十常出現許多相容性的問題。  
@@ -27,9 +27,9 @@ comments: true
 
 所以，如果你跟我一樣，只是想要簡單的架站，不在乎本機預覽的功能，其實你可以直接跳過這些步驟，依然能有個漂亮的Github Pages部落格。
 
----
-### 該如何有個Github Pages
 
+### 該如何有個Github Pages
+---
 #### 三大步驟
 1. 註冊[Github](https://github.com/join?source=header-home)會員
 2. 選擇[Jekyll](http://jekyllthemes.org/)樣板（不需安裝任何東西）
@@ -39,8 +39,9 @@ comments: true
 
 接下來，我從第二步驟開始解說吧，註冊會員這種東西，就交給聰明的各位處理了。
 <!-- more -->
----
+
 ### 選擇樣板
+---
 這一個步驟非常簡單，你只要去[Jekyll樣板](http://jekyllthemes.org/)網站，選個漂亮的樣板，接著將樣板Fork至自己的Github裡面就好了。
 
 如果是打包好的zip擋，也是將他們完整上傳至自己建立好的分支即可。
@@ -94,8 +95,9 @@ Alomahuang/hanuman 斜線前面是你的github名稱 斜線後面則是剛剛樣
 
 ![myrepo]({{ site.baseurl }}/images/2018/01/2018012208.png)
 
----
+
 ### 修改config
+---
 最後一步也是最重要的一步，就是修改你的_config.yml檔案，這是攸關勝負的一戰不可忽略！
 
 * 在正確的分支下（你預設為default的分支）選擇_config.yml擋
