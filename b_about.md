@@ -21,7 +21,7 @@ permalink: /about/
 
 ```javascript
 var age = 28;
-for (age;i<100,age++){
+for (age,age<100,age++){
 	aloma.code();
 	aloma.yoga();
 	aloma.readBooks();
